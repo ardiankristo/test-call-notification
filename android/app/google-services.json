@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "project_number": "776547605042",
+    "firebase_url": "https://alinamed-a78b5.firebaseio.com",
+    "project_id": "alinamed-a78b5",
+    "storage_bucket": "alinamed-a78b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776547605042:android:20aa70633ba7eab0fcba2b",
+        "android_client_info": {
+          "package_name": "com.alinamed.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776547605042-1s2u5a906uj0egrls2mf1k2djm9i7pe7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alinamed.app",
+            "certificate_hash": "0a4b3c604c5c11ab5a850016010dc2b9cf20b8c7"
+          }
+        },
+        {
+          "client_id": "776547605042-u0g8nl4fa95g7s27e9ov7nhad0bgus78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alinamed.app",
+            "certificate_hash": "8986caa3724edc152233c4201d0c5064c0382a27"
+          }
+        },
+        {
+          "client_id": "776547605042-n0vai4jj88k7nlep703r5e799f4c5c4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASRyWbsekpNk1FDk1yV86uARFNBxdgzYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776547605042-n0vai4jj88k7nlep703r5e799f4c5c4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776547605042-0unuada7qfudvll5e40jr10gh8e57uc4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AlinaMed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776547605042:android:32ac5491446bd83bfcba2b",
+        "android_client_info": {
+          "package_name": "com.alinamed.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776547605042-1dbrukpcb6ujhsvjj5352bg4m4hfv4in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alinamed.covid",
+            "certificate_hash": "ae778ffda5393ea1d540ad6a2c925e46a1d9efb0"
+          }
+        },
+        {
+          "client_id": "776547605042-51n3d7pt13laecjai2h3ml2iudph3k2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alinamed.covid",
+            "certificate_hash": "bc45922c1e43fb7f64da84e8d79803f1f7b131a5"
+          }
+        },
+        {
+          "client_id": "776547605042-e0ikbn44g0edgmp3u87rkk8oe778gq2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alinamed.covid",
+            "certificate_hash": "8422618bab157562340f840229a47d21f2f88957"
+          }
+        },
+        {
+          "client_id": "776547605042-n0vai4jj88k7nlep703r5e799f4c5c4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASRyWbsekpNk1FDk1yV86uARFNBxdgzYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776547605042-n0vai4jj88k7nlep703r5e799f4c5c4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776547605042-0unuada7qfudvll5e40jr10gh8e57uc4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AlinaMed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776547605042:android:80b921c37a5e5d5ffcba2b",
+        "android_client_info": {
+          "package_name": "com.alinamed.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776547605042-7s3rt88b31eqqo9qjqpim4aovi6704ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alinamed.doctor",
+            "certificate_hash": "e6e3f767d263649dc036752e0a0592d61e07a972"
+          }
+        },
+        {
+          "client_id": "776547605042-jo5pt2mej2nfl9gugbuplh7615bkr1hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alinamed.doctor",
+            "certificate_hash": "4aa77b4463f2b103fd4e40a5936d3684a12616b9"
+          }
+        },
+        {
+          "client_id": "776547605042-t266dh4o392qebka2171e52mi6tlse84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alinamed.doctor",
+            "certificate_hash": "f86df77cf4f8116230749bb0ee8204410b78642c"
+          }
+        },
+        {
+          "client_id": "776547605042-n0vai4jj88k7nlep703r5e799f4c5c4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASRyWbsekpNk1FDk1yV86uARFNBxdgzYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776547605042-n0vai4jj88k7nlep703r5e799f4c5c4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776547605042-0unuada7qfudvll5e40jr10gh8e57uc4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AlinaMed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776547605042:android:dacda23740ee26a1fcba2b",
+        "android_client_info": {
+          "package_name": "com.alinamed.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776547605042-82pi5qv1k5kouqqsomms2j635drc74v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alinamed.pharmacy",
+            "certificate_hash": "561dbf13e2c1a696d3301e83246265a5ca663bbd"
+          }
+        },
+        {
+          "client_id": "776547605042-ok9pi6vn3vgch47edhr58qlrf1rbfr4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alinamed.pharmacy",
+            "certificate_hash": "f56ecbf6babb594040beb28445806be74b56e0aa"
+          }
+        },
+        {
+          "client_id": "776547605042-n0vai4jj88k7nlep703r5e799f4c5c4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASRyWbsekpNk1FDk1yV86uARFNBxdgzYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776547605042-n0vai4jj88k7nlep703r5e799f4c5c4r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776547605042-0unuada7qfudvll5e40jr10gh8e57uc4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AlinaMed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
